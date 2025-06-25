@@ -1,64 +1,26 @@
-<h2 align="left">Hellow :)</h2>
+## 🌟 About Me
 
-###
+I'm Vanshika, a Software Engineering undergrad at DTU.
+I’m passionate about turning ideas into code, exploring new technologies, and making sense of complex problems. Always up for a challenge, whether it’s a hackathon, a new framework, or figuring out why my code worked yesterday but not today.
 
-<p align="left">I'm Vanshika, a Software Engineering undergrad at DTU'28 , exploring the intersection of code, logic.</p>
+🛠️ **Currently working with:**
+- HTML, CSS, C, C++, Python, Tailwind CSS, JavaScript, MySQL, Netlify, Vercel, Render, Streamlit, Anaconda, AWS, Canva, Numpy, Pandas, Matplotlib
+- Interested in cloud deployment, data-driven apps, and automation.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🧠 Technical Stack
 
-###
+### 💻 Frontend
 
-<p align="left">
-- Creating bugs since 2024 (and occasionally features)<br>
-- I'm currently learning how to make my code compile on the first try (spoiler: it's not going well)<br>
-- Goals: Graduate with more GitHub green squares than coffee cups consumed<br>
-- Fun fact:  I believe “it works on my machine” should be a valid status update.<br>
-</p>
+`HTML`  `CSS`  `JavaScript`  `Tailwind CSS`  `Streamlit`  `Canva`
 
-###
+### 🖥️ Backend
 
-<h2 align="left">I code with</h2>
+`Python`  `C`  `C++`  `MySQL`  `Pandas`  `Numpy`  `Matplotlib`
 
-###
+### ⚙️ Platforms & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cryptologos.cc/logos/render-token-rndr-logo.png" height="40" alt="render logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
-</div>
+`Netlify`  `Vercel`  `Render`  `AWS`  `Anaconda`
 
-###
+
