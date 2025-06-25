@@ -13,7 +13,7 @@ I’m passionate about turning ideas into code, exploring new technologies, and 
 
 ### 💻 Frontend
 
-`HTML`  `CSS`  `JavaScript`  `Tailwind CSS`  `Streamlit`  `Canva`
+`HTML`  `CSS`  `JavaScript`  `Tailwind CSS`  `Streamlit` 
 
 ### 🖥️ Backend
 
