@@ -1,38 +1,18 @@
-<!--
-  One thing to fill in: replace <[YOUR_GITHUB]> in the profile-view counter
-  below with your GitHub username (or just delete that line if you'd rather
-  not show view counts).
--->
-
 <div align="center">
 
 # Hi, I'm Vanshika
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=560&lines=Software+Engineering+%40+DTU+'28;I+build+across+the+ML+stack;ML+%7C+Agents+%7C+CV+%7C+Edge+AI" alt="intro" />
 
-</div>
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=vanshikaxcx&label=Profile%20views&color=64748b&style=flat-square" alt="profile views" />
 
-</div>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vanshikadhiman/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-
-<a href="https://www.kaggle.com/oneshikaaa">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-</a>
-
-
-<a href="mailto:vanshikaavailable@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://www.linkedin.com/in/vanshikadhiman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.kaggle.com/oneshikaaa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="mailto:vanshikaavailable@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
+
+---
 
 ## About Me
 
@@ -88,6 +68,3 @@ I'm a Software Engineering student at DTU who likes building things across the M
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-
-
