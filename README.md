@@ -14,6 +14,23 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vanshikadhiman/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+
+<a href="https://www.kaggle.com/oneshikaaa">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+
+
+<a href="mailto:vanshikaavailable@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 ---
 
 ## About Me
@@ -71,24 +88,5 @@ I'm a Software Engineering student at DTU who likes building things across the M
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vanshikadhiman/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 
 
-<a href="https://www.kaggle.com/oneshikaaa">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-</a>
-
-
-<a href="mailto:vanshikaavailable@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
