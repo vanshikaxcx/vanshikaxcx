@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=560&lines=Software+Engineering+%40+DTU+'28;I+build+across+the+ML+stack;ML+%7C+Agents+%7C+CV+%7C+Edge+AI" alt="intro" />
 
 </div>
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=vanshikaxcx&label=Profile%20views&color=64748b&style=flat-square" alt="profile views" />
 
 </div>
