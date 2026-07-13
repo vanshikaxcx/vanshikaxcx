@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=560&lines=Software+Engineering+%40+DTU+'28;I+build+across+the+ML+stack;ML+%7C+Agents+%7C+CV+%7C+Edge+AI" alt="intro" />
 
-<img src="https://komarev.com/ghpvc/?username=<https://github.com/vanshikaxcx>&label=Profile%20views&color=64748b&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=vanshikaxcx&label=Profile%20views&color=64748b&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -80,9 +80,13 @@ I'm a Software Engineering student at DTU who likes building things across the M
 <a href="https://www.linkedin.com/in/vanshikadhiman/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+
 <a href="https://www.kaggle.com/oneshikaaa">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
+
+
 <a href="mailto:vanshikaavailable@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
